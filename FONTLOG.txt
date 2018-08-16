@@ -1,0 +1,46 @@
+FONTLOG
+Hispa
+==========================
+
+This file provides detailed information on the Hispa family of fonts.
+This information should be distributed along with the Hispa fonts and
+any derivative works.
+
+The Hispa family of fonts supports the Toto script. This is currently
+a work-in-progress, so these fonts and related files are preliminary
+and incomplete. They should not be used for creating derivatives until
+a later release.
+
+The Latin glyphs are based on the OFL-licensed Source Serif Pro fonts
+(https://github.com/adobe-fonts/source-serif-pro). The Toto glyphs are
+designed by Jordan Bell.
+
+For copyright and licensing information - including any Reserved Font
+Names - see OFL.txt.
+
+For practical information about using, modifying and redistributing this
+font see OFL-FAQ.txt.
+
+For information on contributing to this project see
+/documentation/developers.md.
+
+ChangeLog
+----------
+(This should list both major and minor changes, most recent first.)
+
+16 Aug 2018
+- Initial repository established for preliminary work
+
+Acknowledgements
+-----------------
+(Here is where contributors can be acknowledged. If you make modifications
+be sure to add your name (N), email (E), web-address (W) and description (D).
+This list is sorted by last name in alphabetical order.)
+
+N: Jordan Bell
+E:
+W:
+D: Designer of Toto glyphs
+
+The Hispa fonts are maintained by 3 Strands with help from the wider
+Toto and font communities.

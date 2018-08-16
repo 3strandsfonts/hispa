@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE61D" format="2">
+  <advance width="586"/>
+  <unicode hex="E61D"/>
+  <outline>
+    <contour>
+      <point x="576" y="21" type="curve"/>
+      <point x="527" y="-13" type="line"/>
+      <point x="455" y="110"/>
+      <point x="365" y="299"/>
+      <point x="320" y="426" type="curve"/>
+      <point x="320" y="426"/>
+      <point x="310" y="426"/>
+      <point x="310" y="426" type="curve"/>
+      <point x="271" y="323"/>
+      <point x="182" y="129"/>
+      <point x="97" y="-13" type="curve"/>
+      <point x="74" y="-13" type="line"/>
+      <point x="20" y="43" type="line"/>
+      <point x="107" y="192"/>
+      <point x="194" y="366"/>
+      <point x="265" y="551" type="curve"/>
+      <point x="288" y="564" type="line"/>
+      <point x="368" y="490" type="line"/>
+      <point x="427" y="311"/>
+      <point x="506" y="151"/>
+    </contour>
+  </outline>
+</glyph>

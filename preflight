@@ -1,0 +1,12 @@
+#!/bin/sh
+
+# Uses pysilfont tools
+
+psfnormalize -p checkfix=fix source/masters/HispaMaster-ExtraLight.ufo -l logs/normXL.log
+psfnormalize -p checkfix=fix source/masters/HispaMaster-Medium.ufo -l logs/normM.log
+psfnormalize -p checkfix=fix source/masters/HispaMaster-Black.ufo -l logs/normBL.log
+
+psfsetpsnames -i source/glyph_data.csv source/masters/HispaMaster-Medium.ufo -l logs/psnames.log
+psfsetglyphorder --header sort_final,sort_g --field public.glyphOrder,com.schriftgestaltung.glyphOrder -i source/glyph_data.csv source/masters/HispaMaster-Medium.ufo -l logs/sortorder.log
+
+psfsyncmasters source/HispaRoman.designspace -l logs/sync.log

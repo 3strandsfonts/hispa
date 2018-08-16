@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE60F" format="2">
+  <advance width="571"/>
+  <unicode hex="E60F"/>
+  <outline>
+    <contour>
+      <point x="207" y="188"/>
+      <point x="143" y="268"/>
+      <point x="64" y="306" type="curve"/>
+      <point x="53" y="286" type="line"/>
+      <point x="95" y="199" type="line"/>
+      <point x="151" y="157"/>
+      <point x="230" y="52"/>
+      <point x="274" y="-37" type="curve"/>
+      <point x="294" y="-25" type="line"/>
+      <point x="320" y="125"/>
+      <point x="367" y="280"/>
+      <point x="430" y="430" type="curve"/>
+      <point x="393" y="507" type="line"/>
+      <point x="369" y="507" type="line"/>
+      <point x="318" y="380"/>
+      <point x="278" y="247"/>
+      <point x="251" y="118" type="curve"/>
+      <point x="242" y="118" type="line"/>
+    </contour>
+    <contour>
+      <point x="172" y="460" type="line"/>
+      <point x="571" y="460" type="line"/>
+      <point x="571" y="481" type="line"/>
+      <point x="500" y="554" type="line"/>
+      <point x="110" y="554" type="line"/>
+      <point x="97" y="534" type="line"/>
+    </contour>
+  </outline>
+</glyph>

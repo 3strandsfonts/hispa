@@ -1,0 +1,9 @@
+#!/bin/sh
+
+# Uses pysilfont tools
+
+# Produce individual UFOs from Glyphs file
+psfglyphs2ufo --nofea source/masters/HispaRoman.glyphs source/masters -l logs/glyphsexportR.log
+
+# Continue with normal preflight
+./preflight

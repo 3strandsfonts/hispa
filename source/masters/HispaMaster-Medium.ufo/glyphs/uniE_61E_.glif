@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE61E" format="2">
+  <advance width="391"/>
+  <unicode hex="E61E"/>
+  <outline>
+    <contour>
+      <point x="15" y="48" type="curve"/>
+      <point x="25" y="-15" type="line"/>
+      <point x="48" y="-15" type="line"/>
+      <point x="371" y="450" type="line"/>
+      <point x="361" y="559" type="line"/>
+      <point x="339" y="571" type="line"/>
+      <point x="220" y="391"/>
+      <point x="112" y="220"/>
+    </contour>
+  </outline>
+</glyph>

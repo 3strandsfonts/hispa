@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uhorn" format="2">
+  <advance width="617"/>
+  <unicode hex="01B0"/>
+  <anchor x="315" y="520" name="aboveLC"/>
+  <anchor x="316" y="-22" name="belowLC"/>
+  <outline>
+    <component base="u"/>
+    <component base="horncmb" xOffset="532"/>
+  </outline>
+</glyph>
