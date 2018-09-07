@@ -18,7 +18,7 @@ Not yet done:
 - Individual glyph designs may change
 - More characters may be added
 
-We're not encouraging the public to participate in developing Hispa at this point, however please contact the development team through filing issues if you are intersted in getting involved.
+We're not encouraging the public to participate in developing Hispa at this point, however please contact the development team through filing issues if you are interested in getting involved.
 
 ## Editing
 
