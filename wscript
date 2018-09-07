@@ -15,6 +15,7 @@ and incomplete. They should not be used for creating derivatives until
 a later release.
 """
 DESC_NAME = "Hispa"
+BUILDLABEL = "alpha"
 
 getufoinfo('source/masters/HispaMaster-Medium.ufo')
 
