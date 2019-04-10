@@ -2,7 +2,7 @@
 <glyph name="dieresiscmb" format="2">
   <unicode hex="0308"/>
   <anchor x="0" y="505" name="_aboveLC"/>
-  <anchor x="0" y="680.74" name="aboveLC"/>
+  <anchor x="0" y="681" name="aboveLC"/>
   <outline>
     <contour>
       <point x="94" y="644" type="curve" smooth="yes"/>

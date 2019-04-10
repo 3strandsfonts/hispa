@@ -1,4 +1,4 @@
-Toto glyphs copyright (c) 2016-2018 Jordan Bell.
+Toto glyphs copyright (c) 2016-2019 Jordan Bell.
 Latin glyphs copyright (c) 2014-2017 Adobe Systems Incorporated
 (http://www.adobe.com/), with Reserved Font Name 'Source'.
 

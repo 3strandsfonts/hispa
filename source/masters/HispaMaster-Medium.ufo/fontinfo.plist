@@ -7,13 +7,13 @@
   <key>capHeight</key>
   <integer>670</integer>
   <key>copyright</key>
-  <string>Toto glyphs copyright (c) 2016-2018 Jordan Bell. Latin glyphs copyright (c) 2014 - 2017 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'.</string>
+  <string>Toto glyphs copyright (c) 2016-2019 Jordan Bell. Latin glyphs copyright (c) 2014 - 2017 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'.</string>
   <key>descender</key>
   <integer>-335</integer>
   <key>familyName</key>
   <string>Hispa Master</string>
   <key>openTypeHeadCreated</key>
-  <string>2018/08/16 13:17:11</string>
+  <string>2019/04/10 01:08:41</string>
   <key>openTypeHheaAscender</key>
   <integer>1036</integer>
   <key>openTypeHheaDescender</key>
@@ -27,7 +27,7 @@
   <key>openTypeNameDesignerURL</key>
   <string>https://github.com/3strandsfonts/hispa</string>
   <key>openTypeNameLicense</key>
-  <string>Toto glyphs copyright (c) 2016-2018 Jordan Bell. Latin glyphs copyright (c) 2014 - 2017 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'.
+  <string>Toto glyphs copyright (c) 2016-2019 Jordan Bell. Latin glyphs copyright (c) 2014 - 2017 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
 
@@ -81,7 +81,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Medium</string>
   <key>openTypeNameUniqueID</key>
-  <string>3 Strands: Hispa Master Medium: 2018</string>
+  <string>3 Strands: Hispa Master Medium: 2019</string>
   <key>openTypeNameVersion</key>
   <string>Version 2.000</string>
   <key>openTypeOS2CodePageRanges</key>
