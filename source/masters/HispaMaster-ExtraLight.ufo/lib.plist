@@ -11,16 +11,6 @@
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>ABCDEabcdefg/uniE600/uniE601/uniE602/uniE603/uniE604/uniE605/uniE606/uniE607/uniE608/uniE609/uniE60A/uniE60B/uniE60C/uniE60D CDEefg/uniE60E/uniE60F/uniE610/uniE611/uniE612/uniE613/uniE614/uniE615/uniE616/uniE617/uniE618/uniE619/uniE61A/uniE61B/uniE61C/uniE61D/uniE61E/uniE61F ABCDEabcdefg</string>
-    <string>C</string>
-    <string>c</string>
-    <string>/f_i</string>
-    <string>/uniE60A</string>
-    <string>g</string>
-    <string>/uniE60C</string>
-    <string>/uniE607</string>
-    <string>p</string>
-    <string>/uniE614</string>
-    <string>/uniE600</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
