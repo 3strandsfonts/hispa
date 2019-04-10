@@ -748,6 +748,8 @@
   <integer>0</integer>
   <key>com.schriftgestaltung.width</key>
   <string>Regular</string>
+  <key>com.typemytype.robofont.segmentType</key>
+  <string>curve</string>
   <key>public.glyphOrder</key>
   <array>
     <string>.notdef</string>
