@@ -4,64 +4,64 @@
         <axis default="368.0" maximum="1000.0" minimum="0.0" name="weight" tag="wght" />
     </axes>
     <sources>
-        <source filename="masters/HispaMaster-ExtraLight.ufo" name="master_0" stylename="Extra Light">
+        <source familyname="Hispa Master" filename="masters/HispaMaster-ExtraLight.ufo" name="Hispa Master Extra Light" stylename="Extra Light">
             <location>
-                <dimension name="weight" xvalue="0" />
+                <dimension name="weight" xvalue="0.0" />
             </location>
         </source>
-        <source filename="masters/HispaMaster-Medium.ufo" name="master_1" stylename="Medium">
+        <source familyname="Hispa Master" filename="masters/HispaMaster-Medium.ufo" name="Hispa Master Medium" stylename="Medium">
             <lib copy="1" />
             <groups copy="1" />
             <info copy="1" />
             <location>
-                <dimension name="weight" xvalue="368" />
+                <dimension name="weight" xvalue="368.0" />
             </location>
         </source>
-        <source filename="masters/HispaMaster-Black.ufo" name="master_2" stylename="Black">
+        <source familyname="Hispa Master" filename="masters/HispaMaster-Black.ufo" name="Hispa Master Black" stylename="Black">
             <location>
-                <dimension name="weight" xvalue="1000" />
+                <dimension name="weight" xvalue="1000.0" />
             </location>
         </source>
     </sources>
     <instances>
-        <instance familyname="Hispa Test" filename="instances/Hispa-ExtraLight.ufo" postscriptfontname="Hispa-ExtraLight" stylename="ExtraLight" name="Hispa Test Extra Light">
+        <instance familyname="Hispa Test Extra Light" filename="instances/HispaTestExtraLight-Regular.ufo" name="Hispa Test Extra Light" stylemapfamilyname="Hispa Test Extra Light" stylemapstylename="regular" stylename="Regular"  postscriptfontname="HispaTestExtraLight-Regular">
             <location>
-                <dimension name="weight" xvalue="0" />
+                <dimension name="weight" xvalue="0.0" />
             </location>
             <kerning />
             <info />
         </instance>
-        <instance familyname="Hispa Test" filename="instances/Hispa-Light.ufo" postscriptfontname="Hispa-Light" stylename="Light" name="Hispa Test Light">
+        <instance familyname="Hispa Test Light" filename="instances/HispaTestLight-Regular.ufo" name="Hispa Test Light" stylemapfamilyname="Hispa Test Light" stylemapstylename="regular" stylename="Regular"  postscriptfontname="HispaTestLight-Regular">
             <location>
-                <dimension name="weight" xvalue="150" />
+                <dimension name="weight" xvalue="150.0" />
             </location>
             <kerning />
             <info />
         </instance>
-        <instance familyname="Hispa Test" filename="instances/Hispa-Regular.ufo" postscriptfontname="Hispa-Regular" stylename="Regular" name="Hispa Test">
+        <instance familyname="Hispa Test" filename="instances/HispaTest-Regular.ufo" name="Hispa Test" stylemapfamilyname="Hispa Test" stylemapstylename="regular" stylename="Regular"  postscriptfontname="HispaTest-Regular">
             <location>
-                <dimension name="weight" xvalue="394" />
+                <dimension name="weight" xvalue="394.0" />
             </location>
             <kerning />
             <info />
         </instance>
-        <instance familyname="Hispa Test" filename="instances/Hispa-Semibold.ufo" postscriptfontname="Hispa-Semibold" stylename="Semibold" name="Hispa Test Semibold">
+        <instance familyname="Hispa Test Light" filename="instances/HispaTestLight-Bold.ufo" name="Hispa Test Light Bold" stylemapfamilyname="Hispa Test Light" stylemapstylename="bold" stylename="Bold" postscriptfontname="HispaTestLight-Bold">
             <location>
-                <dimension name="weight" xvalue="600" />
+                <dimension name="weight" xvalue="600.0" />
             </location>
             <kerning />
             <info />
         </instance>
-        <instance familyname="Hispa Test" filename="instances/Hispa-Bold.ufo" postscriptfontname="Hispa-Bold" stylename="Bold" name="Hispa Test Bold">
+        <instance familyname="Hispa Test" filename="instances/HispaTest-Bold.ufo" name="Hispa Test Bold" stylemapfamilyname="Hispa Test" stylemapstylename="bold" stylename="Bold" postscriptfontname="HispaTest-Bold">
             <location>
-                <dimension name="weight" xvalue="824" />
+                <dimension name="weight" xvalue="824.0" />
             </location>
             <kerning />
             <info />
         </instance>
-        <instance familyname="Hispa Test" filename="instances/Hispa-Black.ufo" postscriptfontname="Hispa-Black" stylename="Black" name="Hispa Test Black">
+        <instance familyname="Hispa Test Black" filename="instances/HispaTestBlack-Regular.ufo" name="Hispa Test Black" stylemapfamilyname="Hispa Test Black" stylemapstylename="regular" stylename="Regular"  postscriptfontname="HispaTestBlack-Regular">
             <location>
-                <dimension name="weight" xvalue="1000" />
+                <dimension name="weight" xvalue="1000.0" />
             </location>
             <kerning />
             <info />
