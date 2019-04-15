@@ -24,7 +24,6 @@
         </source>
     </sources>
     <instances>
-    <!--
         <instance familyname="Hispa Test Extra Light" filename="instances/HispaTestExtraLight-Regular.ufo" name="Hispa Test Extra Light" stylemapfamilyname="Hispa Test Extra Light" stylemapstylename="regular" stylename="Regular"  postscriptfontname="HispaTestExtraLight-Regular">
             <location>
                 <dimension name="weight" xvalue="0.0" />
@@ -39,7 +38,6 @@
             <kerning />
             <info />
         </instance>
-    -->
         <instance familyname="Hispa Test" filename="instances/HispaTest-Regular.ufo" name="Hispa Test" stylemapfamilyname="Hispa Test" stylemapstylename="regular" stylename="Regular"  postscriptfontname="HispaTest-Regular">
             <location>
                 <dimension name="weight" xvalue="394.0" />
@@ -47,7 +45,6 @@
             <kerning />
             <info />
         </instance>
-    <!--
         <instance familyname="Hispa Test Light" filename="instances/HispaTestLight-Bold.ufo" name="Hispa Test Light Bold" stylemapfamilyname="Hispa Test Light" stylemapstylename="bold" stylename="Bold" postscriptfontname="HispaTestLight-Bold">
             <location>
                 <dimension name="weight" xvalue="600.0" />
@@ -55,7 +52,6 @@
             <kerning />
             <info />
         </instance>
-    -->
         <instance familyname="Hispa Test" filename="instances/HispaTest-Bold.ufo" name="Hispa Test Bold" stylemapfamilyname="Hispa Test" stylemapstylename="bold" stylename="Bold" postscriptfontname="HispaTest-Bold">
             <location>
                 <dimension name="weight" xvalue="824.0" />
@@ -63,7 +59,6 @@
             <kerning />
             <info />
         </instance>
-    <!--
         <instance familyname="Hispa Test Black" filename="instances/HispaTestBlack-Regular.ufo" name="Hispa Test Black" stylemapfamilyname="Hispa Test Black" stylemapstylename="regular" stylename="Regular"  postscriptfontname="HispaTestBlack-Regular">
             <location>
                 <dimension name="weight" xvalue="1000.0" />
@@ -71,6 +66,5 @@
             <kerning />
             <info />
         </instance>
-    -->
     </instances>
 </designspace>
